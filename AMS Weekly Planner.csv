@@ -1,433 +1,433 @@
 ﻿GRADE,Class,DATE,Day,SUBJECT,Start,End,TEACHER NAME,Key
-G5,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G5A44052
-G5,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G5A44053
-G5,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G5A44054
-G5,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G5A44055
-G5,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G5A44056
-G6,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G6A44052
-G6,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G6A44053
-G6,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G6A44054
-G6,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G6A44055
-G6,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G6A44056
-G4,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G4A44052
-G4,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G4A44053
-G4,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G4A44054
-G4,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G4A44055
-G4,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G4A44056
-G3,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G3A44052
-G3,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G3A44053
-G3,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G3A44054
-G3,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G3A44055
-G3,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G3A44056
-G2,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G2A44052
-G2,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G2A44053
-G2,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G2A44054
-G2,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G2A44055
-G2,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G2A44056
-G1,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G1A44052
-G1,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G1A44053
-G1,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G1A44054
-G1,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G1A44055
-G1,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G1A44056
-KG1,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG1A44052
-KG1,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG1A44053
-KG1,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG1A44054
-KG1,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG1A44055
-KG1,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG1A44056
-KG2,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG2A44052
-KG2,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG2A44053
-KG2,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG2A44054
-KG2,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG2A44055
-KG2,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG2A44056
-PREK,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,PREKA44052
-PREK,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,PREKA44053
-PREK,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,PREKA44054
-PREK,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,PREKA44055
-PREK,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,PREKA44056
-G7,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G7A44052
-G7,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G7A44053
-G7,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G7A44054
-G7,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G7A44055
-G7,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G7A44056
-G8,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G8A44052
-G8,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G8A44053
-G8,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G8A44054
-G8,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G8A44055
-G8,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G8A44056
-G9,A,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G9A44052
-G9,A,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G9A44053
-G9,A,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G9A44054
-G9,A,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G9A44055
-G9,A,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G9A44056
-G5,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G5B44052
-G5,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G5B44053
-G5,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G5B44054
-G5,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G5B44055
-G5,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G5B44056
-G6,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G6B44052
-G6,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G6B44053
-G6,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G6B44054
-G6,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G6B44055
-G6,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G6B44056
-G4,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G4B44052
-G4,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G4B44053
-G4,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G4B44054
-G4,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G4B44055
-G4,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G4B44056
-G3,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G3B44052
-G3,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G3B44053
-G3,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G3B44054
-G3,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G3B44055
-G3,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G3B44056
-G2,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G2B44052
-G2,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G2B44053
-G2,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G2B44054
-G2,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G2B44055
-G2,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G2B44056
-G1,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G1B44052
-G1,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G1B44053
-G1,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G1B44054
-G1,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G1B44055
-G1,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G1B44056
-KG1,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG1B44052
-KG1,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG1B44053
-KG1,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG1B44054
-KG1,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG1B44055
-KG1,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG1B44056
-KG2,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG2B44052
-KG2,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG2B44053
-KG2,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG2B44054
-KG2,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG2B44055
-KG2,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG2B44056
-PREK,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,PREKB44052
-PREK,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,PREKB44053
-PREK,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,PREKB44054
-PREK,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,PREKB44055
-PREK,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,PREKB44056
-G7,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G7B44052
-G7,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G7B44053
-G7,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G7B44054
-G7,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G7B44055
-G7,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G7B44056
-G8,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G8B44052
-G8,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G8B44053
-G8,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G8B44054
-G8,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G8B44055
-G8,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G8B44056
-G9,B,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G9B44052
-G9,B,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G9B44053
-G9,B,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G9B44054
-G9,B,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G9B44055
-G9,B,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G9B44056
-G5,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G5C44052
-G5,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G5C44053
-G5,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G5C44054
-G5,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G5C44055
-G5,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G5C44056
-G6,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G6C44052
-G6,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G6C44053
-G6,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G6C44054
-G6,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G6C44055
-G6,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G6C44056
-G4,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G4C44052
-G4,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G4C44053
-G4,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G4C44054
-G4,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G4C44055
-G4,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G4C44056
-G3,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G3C44052
-G3,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G3C44053
-G3,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G3C44054
-G3,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G3C44055
-G3,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G3C44056
-G2,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G2C44052
-G2,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G2C44053
-G2,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G2C44054
-G2,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G2C44055
-G2,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G2C44056
-G1,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G1C44052
-G1,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G1C44053
-G1,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G1C44054
-G1,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G1C44055
-G1,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G1C44056
-KG1,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG1C44052
-KG1,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG1C44053
-KG1,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG1C44054
-KG1,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG1C44055
-KG1,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG1C44056
-KG2,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG2C44052
-KG2,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG2C44053
-KG2,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG2C44054
-KG2,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG2C44055
-KG2,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG2C44056
-PREK,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,PREKC44052
-PREK,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,PREKC44053
-PREK,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,PREKC44054
-PREK,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,PREKC44055
-PREK,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,PREKC44056
-G7,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G7C44052
-G7,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G7C44053
-G7,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G7C44054
-G7,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G7C44055
-G7,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G7C44056
-G8,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G8C44052
-G8,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G8C44053
-G8,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G8C44054
-G8,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G8C44055
-G8,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G8C44056
-G9,C,2020-08-09,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G9C44052
-G9,C,2020-08-10,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G9C44053
-G9,C,2020-08-11,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G9C44054
-G9,C,2020-08-12,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G9C44055
-G9,C,2020-08-13,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G9C44056
-G5,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G5A44052
-G5,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G5A44053
-G5,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G5A44054
-G5,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G5A44055
-G6,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G6A44052
-G6,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G6A44053
-G6,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G6A44054
-G6,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G6A44055
-G4,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G4A44052
-G4,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G4A44053
-G4,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G4A44054
-G4,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G4A44055
-G3,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G3A44052
-G3,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G3A44053
-G3,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G3A44054
-G3,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G3A44055
-G2,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G2A44052
-G2,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G2A44053
-G2,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G2A44054
-G2,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G2A44055
-G1,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G1A44052
-G1,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G1A44053
-G1,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G1A44054
-G1,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G1A44055
-KG1,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,KG1A44052
-KG1,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,KG1A44053
-KG1,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,KG1A44054
-KG1,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,KG1A44055
-KG2,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,KG2A44052
-KG2,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,KG2A44053
-KG2,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,KG2A44054
-KG2,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,KG2A44055
-PREK,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,PREKA44052
-PREK,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,PREKA44053
-PREK,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,PREKA44054
-PREK,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,PREKA44055
-G7,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G7A44052
-G7,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G7A44053
-G7,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G7A44054
-G7,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G7A44055
-G8,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G8A44052
-G8,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G8A44053
-G8,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G8A44054
-G8,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G8A44055
-G9,A,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G9A44052
-G9,A,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G9A44053
-G9,A,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G9A44054
-G9,A,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G9A44055
-G5,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G5B44052
-G5,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G5B44053
-G5,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G5B44054
-G5,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G5B44055
-G6,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G6B44052
-G6,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G6B44053
-G6,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G6B44054
-G6,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G6B44055
-G4,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G4B44052
-G4,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G4B44053
-G4,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G4B44054
-G4,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G4B44055
-G3,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G3B44052
-G3,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G3B44053
-G3,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G3B44054
-G3,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G3B44055
-G2,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G2B44052
-G2,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G2B44052
-G2,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G2B44054
-G2,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G2B44055
-G1,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G1B44052
-G1,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G1B44053
-G1,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G1B44054
-G1,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G1B44055
-KG1,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,KG1B44052
-KG1,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,KG1B44053
-KG1,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,KG1B44054
-KG1,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,KG1B44055
-KG2,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,KG2B44052
-KG2,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,KG2B44053
-KG2,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,KG2B44054
-KG2,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,KG2B44055
-PREK,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,PREKB44052
-PREK,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,PREKB44053
-PREK,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,PREKB44054
-PREK,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,PREKB44055
-G7,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G7B44052
-G7,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G7B44053
-G7,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G7B44054
-G7,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G7B44055
-G8,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G8B44052
-G8,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G8B44053
-G8,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G8B44054
-G8,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G8B44055
-G9,B,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G9B44052
-G9,B,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G9B44053
-G9,B,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G9B44054
-G9,B,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G9B44055
-G5,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G5C44052
-G5,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G5C44053
-G5,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G5C44054
-G5,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G5C44055
-G6,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G6C44052
-G6,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G6C44053
-G6,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G6C44054
-G6,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G6C44055
-G4,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G4C44052
-G4,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G4C44053
-G4,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G4C44054
-G4,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G4C44055
-G3,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G3C44052
-G3,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G3C44053
-G3,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G3C44054
-G3,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G3C44055
-G2,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G2C44052
-G2,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G2C44053
-G2,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G2C44054
-G2,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G2C44055
-G1,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G1C44052
-G1,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G1C44053
-G1,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G1C44054
-G1,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G1C44055
-KG1,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,KG1C44052
-KG1,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,KG1C44053
-KG1,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,KG1C44054
-KG1,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,KG1C44055
-KG2,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,KG2C44052
-KG2,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,KG2C44053
-KG2,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,KG2C44054
-KG2,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,KG2C44055
-PREK,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,PREKC44052
-PREK,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,PREKC44053
-PREK,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,PREKC44054
-PREK,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,PREKC44055
-G7,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G7C44052
-G7,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G7C44053
-G7,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G7C44054
-G7,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G7C44055
-G8,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G8C44052
-G8,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G8C44053
-G8,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G8C44054
-G8,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G8C44055
-G9,C,2020-08-09,Sunday,Break,10:40 AM,11:00 AM,Break,G9C44052
-G9,C,2020-08-10,Monday,Break,10:40 AM,11:00 AM,Break,G9C44053
-G9,C,2020-08-11,Tuesday,Break,10:40 AM,11:00 AM,Break,G9C44054
-G9,C,2020-08-12,Wednesday,Break,10:40 AM,11:00 AM,Break,G9C44055
-G5,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G5A44052
-G5,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G5A44054
-G5,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G5A44055
-G6,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G6A44052
-G6,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G6A44054
-G6,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G6A44055
-G4,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G4A44052
-G4,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G4A44054
-G4,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G4A44055
-G3,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G3A44052
-G3,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G3A44054
-G3,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G3A44055
-G2,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G2A44052
-G2,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G2A44054
-G2,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G2A44055
-G1,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G1A44052
-G1,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G1A44054
-G1,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G1A44055
-KG1,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG1A44052
-KG1,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG1A44054
-KG1,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG1A44055
-KG2,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG2A44052
-KG2,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG2A44054
-KG2,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG2A44055
-PREK,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,PREKA44052
-PREK,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,PREKA44054
-PREK,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,PREKA44055
-G7,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G7A44052
-G7,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G7A44054
-G7,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G7A44055
-G8,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G8A44052
-G8,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G8A44054
-G8,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G8A44055
-G9,A,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G9A44052
-G9,A,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G9A44054
-G9,A,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G9A44055
-G5,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G5B44052
-G5,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G5B44054
-G5,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G5B44055
-G6,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G6B44052
-G6,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G6B44054
-G6,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G6B44055
-G4,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G4B44052
-G4,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G4B44054
-G4,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G4B44055
-G3,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G3B44052
-G3,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G3B44054
-G3,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G3B44055
-G2,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G2B44052
-G2,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G2B44054
-G2,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G2B44055
-G1,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G1B44052
-G1,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G1B44054
-G1,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G1B44055
-KG1,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG1B44052
-KG1,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG1B44054
-KG1,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG1B44055
-KG2,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG2B44052
-KG2,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG2B44054
-KG2,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG2B44055
-PREK,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,PREKB44052
-PREK,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,PREKB44054
-PREK,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,PREKB44055
-G7,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G7B44052
-G7,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G7B44054
-G7,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G7B44055
-G8,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G8B44052
-G8,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G8B44054
-G8,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G8B44055
-G9,B,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G9B44052
-G9,B,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G9B44054
-G9,B,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G9B44055
-G5,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G5C44052
-G5,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G5C44054
-G5,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G5C44055
-G6,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G6C44052
-G6,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G6C44054
-G6,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G6C44055
-G4,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G4C44052
-G4,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G4C44054
-G4,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G4C44055
-G3,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G3C44052
-G3,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G3C44054
-G3,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G3C44055
-G2,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G2C44052
-G2,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G2C44054
-G2,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G2C44055
-G1,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G1C44052
-G1,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G1C44054
-G1,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G1C44055
-KG1,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG1C44052
-KG1,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG1C44054
-KG1,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG1C44055
-KG2,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG2C44052
-KG2,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG2C44054
-KG2,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG2C44055
-PREK,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,PREKC44052
-PREK,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,PREKC44054
-PREK,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,PREKC44055
-G7,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G7C44052
-G7,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G7C44054
-G7,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G7C44055
-G8,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G8C44052
-G8,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G8C44054
-G8,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G8C44055
-G9,C,2020-08-09,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G9C44052
-G9,C,2020-08-11,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G9C44054
-G9,C,2020-08-12,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G9C44055
+G5,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G5ASunday
+G5,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G5AMonday
+G5,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G5ATuesday
+G5,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G5AWednesday
+G5,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G5AThursday
+G6,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G6ASunday
+G6,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G6AMonday
+G6,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G6ATuesday
+G6,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G6AWednesday
+G6,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G6AThursday
+G4,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G4ASunday
+G4,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G4AMonday
+G4,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G4ATuesday
+G4,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G4AWednesday
+G4,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G4AThursday
+G3,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G3ASunday
+G3,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G3AMonday
+G3,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G3ATuesday
+G3,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G3AWednesday
+G3,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G3AThursday
+G2,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G2ASunday
+G2,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G2AMonday
+G2,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G2ATuesday
+G2,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G2AWednesday
+G2,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G2AThursday
+G1,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G1ASunday
+G1,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G1AMonday
+G1,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G1ATuesday
+G1,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G1AWednesday
+G1,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G1AThursday
+KG1,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG1ASunday
+KG1,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG1AMonday
+KG1,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG1ATuesday
+KG1,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG1AWednesday
+KG1,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG1AThursday
+KG2,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG2ASunday
+KG2,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG2AMonday
+KG2,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG2ATuesday
+KG2,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG2AWednesday
+KG2,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG2AThursday
+PREK,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,PREKASunday
+PREK,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,PREKAMonday
+PREK,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,PREKATuesday
+PREK,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,PREKAWednesday
+PREK,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,PREKAThursday
+G7,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G7ASunday
+G7,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G7AMonday
+G7,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G7ATuesday
+G7,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G7AWednesday
+G7,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G7AThursday
+G8,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G8ASunday
+G8,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G8AMonday
+G8,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G8ATuesday
+G8,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G8AWednesday
+G8,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G8AThursday
+G9,A,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G9ASunday
+G9,A,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G9AMonday
+G9,A,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G9ATuesday
+G9,A,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G9AWednesday
+G9,A,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G9AThursday
+G5,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G5BSunday
+G5,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G5BMonday
+G5,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G5BTuesday
+G5,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G5BWednesday
+G5,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G5BThursday
+G6,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G6BSunday
+G6,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G6BMonday
+G6,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G6BTuesday
+G6,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G6BWednesday
+G6,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G6BThursday
+G4,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G4BSunday
+G4,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G4BMonday
+G4,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G4BTuesday
+G4,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G4BWednesday
+G4,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G4BThursday
+G3,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G3BSunday
+G3,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G3BMonday
+G3,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G3BTuesday
+G3,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G3BWednesday
+G3,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G3BThursday
+G2,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G2BSunday
+G2,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G2BMonday
+G2,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G2BTuesday
+G2,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G2BWednesday
+G2,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G2BThursday
+G1,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G1BSunday
+G1,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G1BMonday
+G1,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G1BTuesday
+G1,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G1BWednesday
+G1,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G1BThursday
+KG1,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG1BSunday
+KG1,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG1BMonday
+KG1,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG1BTuesday
+KG1,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG1BWednesday
+KG1,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG1BThursday
+KG2,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG2BSunday
+KG2,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG2BMonday
+KG2,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG2BTuesday
+KG2,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG2BWednesday
+KG2,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG2BThursday
+PREK,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,PREKBSunday
+PREK,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,PREKBMonday
+PREK,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,PREKBTuesday
+PREK,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,PREKBWednesday
+PREK,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,PREKBThursday
+G7,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G7BSunday
+G7,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G7BMonday
+G7,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G7BTuesday
+G7,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G7BWednesday
+G7,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G7BThursday
+G8,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G8BSunday
+G8,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G8BMonday
+G8,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G8BTuesday
+G8,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G8BWednesday
+G8,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G8BThursday
+G9,B,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G9BSunday
+G9,B,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G9BMonday
+G9,B,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G9BTuesday
+G9,B,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G9BWednesday
+G9,B,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G9BThursday
+G5,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G5CSunday
+G5,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G5CMonday
+G5,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G5CTuesday
+G5,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G5CWednesday
+G5,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G5CThursday
+G6,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G6CSunday
+G6,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G6CMonday
+G6,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G6CTuesday
+G6,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G6CWednesday
+G6,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G6CThursday
+G4,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G4CSunday
+G4,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G4CMonday
+G4,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G4CTuesday
+G4,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G4CWednesday
+G4,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G4CThursday
+G3,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G3CSunday
+G3,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G3CMonday
+G3,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G3CTuesday
+G3,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G3CWednesday
+G3,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G3CThursday
+G2,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G2CSunday
+G2,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G2CMonday
+G2,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G2CTuesday
+G2,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G2CWednesday
+G2,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G2CThursday
+G1,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G1CSunday
+G1,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G1CMonday
+G1,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G1CTuesday
+G1,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G1CWednesday
+G1,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G1CThursday
+KG1,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG1CSunday
+KG1,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG1CMonday
+KG1,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG1CTuesday
+KG1,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG1CWednesday
+KG1,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG1CThursday
+KG2,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,KG2CSunday
+KG2,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,KG2CMonday
+KG2,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,KG2CTuesday
+KG2,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,KG2CWednesday
+KG2,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,KG2CThursday
+PREK,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,PREKCSunday
+PREK,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,PREKCMonday
+PREK,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,PREKCTuesday
+PREK,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,PREKCWednesday
+PREK,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,PREKCThursday
+G7,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G7CSunday
+G7,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G7CMonday
+G7,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G7CTuesday
+G7,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G7CWednesday
+G7,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G7CThursday
+G8,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G8CSunday
+G8,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G8CMonday
+G8,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G8CTuesday
+G8,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G8CWednesday
+G8,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G8CThursday
+G9,C,09-08-20,Sunday,Science,10:00 AM,10:40 AM,Mrs Elena,G9CSunday
+G9,C,10-08-20,Monday,Arabic,10:00 AM,10:40 AM,Mrs Mona kamel,G9CMonday
+G9,C,11-08-20,Tuesday,ELA,10:00 AM,10:40 AM,Mr Mohammed abdalhakam,G9CTuesday
+G9,C,12-08-20,Wednesday,French,10:00 AM,10:40 AM,Mr Eslam Ahmed,G9CWednesday
+G9,C,13-08-20,Thursday,Math,10:00 AM,10:40 AM,Mrs Neven,G9CThursday
+G5,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G5ASunday
+G5,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G5AMonday
+G5,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G5ATuesday
+G5,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G5AWednesday
+G6,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G6ASunday
+G6,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G6AMonday
+G6,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G6ATuesday
+G6,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G6AWednesday
+G4,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G4ASunday
+G4,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G4AMonday
+G4,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G4ATuesday
+G4,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G4AWednesday
+G3,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G3ASunday
+G3,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G3AMonday
+G3,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G3ATuesday
+G3,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G3AWednesday
+G2,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G2ASunday
+G2,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G2AMonday
+G2,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G2ATuesday
+G2,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G2AWednesday
+G1,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G1ASunday
+G1,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G1AMonday
+G1,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G1ATuesday
+G1,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G1AWednesday
+KG1,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,KG1ASunday
+KG1,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,KG1AMonday
+KG1,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,KG1ATuesday
+KG1,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,KG1AWednesday
+KG2,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,KG2ASunday
+KG2,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,KG2AMonday
+KG2,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,KG2ATuesday
+KG2,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,KG2AWednesday
+PREK,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,PREKASunday
+PREK,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,PREKAMonday
+PREK,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,PREKATuesday
+PREK,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,PREKAWednesday
+G7,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G7ASunday
+G7,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G7AMonday
+G7,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G7ATuesday
+G7,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G7AWednesday
+G8,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G8ASunday
+G8,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G8AMonday
+G8,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G8ATuesday
+G8,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G8AWednesday
+G9,A,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G9ASunday
+G9,A,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G9AMonday
+G9,A,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G9ATuesday
+G9,A,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G9AWednesday
+G5,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G5BSunday
+G5,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G5BMonday
+G5,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G5BTuesday
+G5,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G5BWednesday
+G6,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G6BSunday
+G6,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G6BMonday
+G6,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G6BTuesday
+G6,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G6BWednesday
+G4,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G4BSunday
+G4,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G4BMonday
+G4,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G4BTuesday
+G4,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G4BWednesday
+G3,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G3BSunday
+G3,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G3BMonday
+G3,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G3BTuesday
+G3,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G3BWednesday
+G2,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G2BSunday
+G2,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G2BSunday
+G2,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G2BTuesday
+G2,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G2BWednesday
+G1,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G1BSunday
+G1,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G1BMonday
+G1,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G1BTuesday
+G1,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G1BWednesday
+KG1,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,KG1BSunday
+KG1,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,KG1BMonday
+KG1,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,KG1BTuesday
+KG1,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,KG1BWednesday
+KG2,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,KG2BSunday
+KG2,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,KG2BMonday
+KG2,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,KG2BTuesday
+KG2,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,KG2BWednesday
+PREK,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,PREKBSunday
+PREK,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,PREKBMonday
+PREK,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,PREKBTuesday
+PREK,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,PREKBWednesday
+G7,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G7BSunday
+G7,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G7BMonday
+G7,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G7BTuesday
+G7,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G7BWednesday
+G8,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G8BSunday
+G8,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G8BMonday
+G8,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G8BTuesday
+G8,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G8BWednesday
+G9,B,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G9BSunday
+G9,B,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G9BMonday
+G9,B,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G9BTuesday
+G9,B,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G9BWednesday
+G5,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G5CSunday
+G5,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G5CMonday
+G5,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G5CTuesday
+G5,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G5CWednesday
+G6,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G6CSunday
+G6,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G6CMonday
+G6,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G6CTuesday
+G6,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G6CWednesday
+G4,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G4CSunday
+G4,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G4CMonday
+G4,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G4CTuesday
+G4,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G4CWednesday
+G3,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G3CSunday
+G3,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G3CMonday
+G3,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G3CTuesday
+G3,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G3CWednesday
+G2,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G2CSunday
+G2,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G2CMonday
+G2,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G2CTuesday
+G2,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G2CWednesday
+G1,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G1CSunday
+G1,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G1CMonday
+G1,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G1CTuesday
+G1,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G1CWednesday
+KG1,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,KG1CSunday
+KG1,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,KG1CMonday
+KG1,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,KG1CTuesday
+KG1,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,KG1CWednesday
+KG2,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,KG2CSunday
+KG2,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,KG2CMonday
+KG2,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,KG2CTuesday
+KG2,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,KG2CWednesday
+PREK,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,PREKCSunday
+PREK,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,PREKCMonday
+PREK,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,PREKCTuesday
+PREK,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,PREKCWednesday
+G7,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G7CSunday
+G7,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G7CMonday
+G7,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G7CTuesday
+G7,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G7CWednesday
+G8,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G8CSunday
+G8,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G8CMonday
+G8,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G8CTuesday
+G8,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G8CWednesday
+G9,C,09-08-20,Sunday,Break,10:40 AM,11:00 AM,Break,G9CSunday
+G9,C,10-08-20,Monday,Break,10:40 AM,11:00 AM,Break,G9CMonday
+G9,C,11-08-20,Tuesday,Break,10:40 AM,11:00 AM,Break,G9CTuesday
+G9,C,12-08-20,Wednesday,Break,10:40 AM,11:00 AM,Break,G9CWednesday
+G5,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G5ASunday
+G5,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G5ATuesday
+G5,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G5AWednesday
+G6,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G6ASunday
+G6,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G6ATuesday
+G6,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G6AWednesday
+G4,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G4ASunday
+G4,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G4ATuesday
+G4,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G4AWednesday
+G3,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G3ASunday
+G3,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G3ATuesday
+G3,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G3AWednesday
+G2,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G2ASunday
+G2,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G2ATuesday
+G2,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G2AWednesday
+G1,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G1ASunday
+G1,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G1ATuesday
+G1,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G1AWednesday
+KG1,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG1ASunday
+KG1,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG1ATuesday
+KG1,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG1AWednesday
+KG2,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG2ASunday
+KG2,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG2ATuesday
+KG2,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG2AWednesday
+PREK,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,PREKASunday
+PREK,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,PREKATuesday
+PREK,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,PREKAWednesday
+G7,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G7ASunday
+G7,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G7ATuesday
+G7,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G7AWednesday
+G8,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G8ASunday
+G8,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G8ATuesday
+G8,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G8AWednesday
+G9,A,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G9ASunday
+G9,A,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G9ATuesday
+G9,A,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G9AWednesday
+G5,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G5BSunday
+G5,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G5BTuesday
+G5,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G5BWednesday
+G6,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G6BSunday
+G6,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G6BTuesday
+G6,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G6BWednesday
+G4,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G4BSunday
+G4,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G4BTuesday
+G4,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G4BWednesday
+G3,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G3BSunday
+G3,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G3BTuesday
+G3,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G3BWednesday
+G2,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G2BSunday
+G2,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G2BTuesday
+G2,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G2BWednesday
+G1,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G1BSunday
+G1,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G1BTuesday
+G1,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G1BWednesday
+KG1,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG1BSunday
+KG1,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG1BTuesday
+KG1,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG1BWednesday
+KG2,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG2BSunday
+KG2,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG2BTuesday
+KG2,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG2BWednesday
+PREK,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,PREKBSunday
+PREK,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,PREKBTuesday
+PREK,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,PREKBWednesday
+G7,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G7BSunday
+G7,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G7BTuesday
+G7,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G7BWednesday
+G8,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G8BSunday
+G8,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G8BTuesday
+G8,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G8BWednesday
+G9,B,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G9BSunday
+G9,B,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G9BTuesday
+G9,B,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G9BWednesday
+G5,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G5CSunday
+G5,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G5CTuesday
+G5,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G5CWednesday
+G6,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G6CSunday
+G6,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G6CTuesday
+G6,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G6CWednesday
+G4,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G4CSunday
+G4,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G4CTuesday
+G4,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G4CWednesday
+G3,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G3CSunday
+G3,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G3CTuesday
+G3,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G3CWednesday
+G2,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G2CSunday
+G2,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G2CTuesday
+G2,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G2CWednesday
+G1,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G1CSunday
+G1,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G1CTuesday
+G1,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G1CWednesday
+KG1,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG1CSunday
+KG1,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG1CTuesday
+KG1,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG1CWednesday
+KG2,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,KG2CSunday
+KG2,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,KG2CTuesday
+KG2,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,KG2CWednesday
+PREK,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,PREKCSunday
+PREK,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,PREKCTuesday
+PREK,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,PREKCWednesday
+G7,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G7CSunday
+G7,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G7CTuesday
+G7,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G7CWednesday
+G8,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G8CSunday
+G8,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G8CTuesday
+G8,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G8CWednesday
+G9,C,09-08-20,Sunday,SSE,11:00 AM,11:40 AM,Mr Mohammed okasha,G9CSunday
+G9,C,11-08-20,Tuesday,German,11:00 AM,11:40 AM,Mr Mohamed Samer,G9CTuesday
+G9,C,12-08-20,Wednesday,SSA,11:00 AM,11:40 AM,Mrs Asmaa Elsayed,G9CWednesday
