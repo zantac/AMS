@@ -1,0 +1,401 @@
+﻿Day,Grade,Start,End,Course,Teacher
+Friday,G2,10:00 AM,12:00 PM,English Grammar,Basma Seif
+Friday,G3,10:00 AM,12:00 PM,English Grammar,Basma Seif
+Monday,Prek,11:00 AM,12:00 PM,القرأن,هبة شرف / صباح
+Monday,KG1,11:00 AM,12:00 PM,القرأن,هبة شرف / صباح
+Monday,KG2,11:00 AM,12:00 PM,القرأن,هبة شرف / صباح
+Monday,G6,01:00 PM,02:00 PM,General English,Alshaimaa Abdulk haleq Ahmad
+Monday,G1,04:00 PM,05:00 PM,English Writing,Solwan Sameh
+Monday,Prek,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,KG1,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,KG2,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G1,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G2,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G3,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G4,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G5,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G6,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G7,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G8,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G9,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G10,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G11,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G12,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Monday,G4,05:00 PM,06:00 PM,General English,Asmaa Hamdy
+Monday,G7,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Monday,G8,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Monday,G9,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Monday,G10,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Monday,G11,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Monday,G12,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Monday,G9,06:00 PM,07:00 PM,Math,ايمان عزب
+Monday,G4,06:00 PM,07:00 PM,English Conversation,AmiraSamaan
+Monday,G3,06:00 PM,07:00 PM,English Conversation,AbdulAziz Lutfy
+Monday,G4,06:00 PM,07:00 PM,English Conversation,AbdulAziz Lutfy
+Monday,KG1,07:00 PM,08:00 PM,Art Group 1,Mai Adel & Reem Abdo
+Monday,KG2,07:00 PM,08:00 PM,Art Group 1,Mai Adel & Reem Abdo
+Monday,G1,07:00 PM,08:00 PM,Art Group 1,Mai Adel & Reem Abdo
+Monday,G2,07:00 PM,08:00 PM,Art Group 2,Rehab Fawzy
+Monday,G3,07:00 PM,08:00 PM,Art Group 2,Rehab Fawzy
+Monday,G4,07:00 PM,08:00 PM,Art Group 2,Rehab Fawzy
+Monday,G11,07:00 PM,08:00 PM,اللغة العربية البلاغة,محمد مكاوي
+Monday,G3,07:00 PM,08:00 PM,French,Osamn
+Monday,G4,07:00 PM,08:00 PM,French,Osamn
+Monday,G5,08:00 PM,09:00 PM,Art Group 3,Radwa Ahmed
+Monday,G6,08:00 PM,09:00 PM,Art Group 3,Radwa Ahmed
+Monday,G7,08:00 PM,09:00 PM,Art Group 3,Radwa Ahmed
+Monday,Prek,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,KG1,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,KG2,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G1,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G2,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G3,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G4,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G5,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G6,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G7,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G8,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G9,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G10,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G11,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G12,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Monday,G10,08:00 PM,09:00 PM,French,Marwa
+Monday,G11,08:00 PM,09:00 PM,French,Marwa
+Monday,G12,08:00 PM,09:00 PM,French,Marwa
+Monday,G8,08:00 PM,09:00 PM,English Reading skills,Shaimaa Desokey
+No Data,G10,No Data,No Data,English IELTS,Mohamed  Salama
+No Data,G11,No Data,No Data,English IELTS,Mohamed  Salama
+No Data,G12,No Data,No Data,English IELTS,Mohamed  Salama
+Saturday,G2,10:00 AM,12:00 PM,English Grammar,Basma Seif
+Saturday,G3,10:00 AM,12:00 PM,English Grammar,Basma Seif
+Saturday,G3,12:00 PM,01:00 PM,General English,Hadeer Shafiq Mahrous
+Saturday,G5,03:00 PM,04:00 PM,French,Islam
+Saturday,G6,03:00 PM,04:00 PM,French,Islam
+Saturday,KG1,04:00 PM,05:00 PM,French,Abdulwhab
+Saturday,KG2,04:00 PM,05:00 PM,French,Abdulwhab
+Saturday,G1,06:00 PM,07:00 PM,تأسيس قرأن,ياسمين / الاء
+Saturday,G2,06:00 PM,07:00 PM,تأسيس قرأن,ياسمين / الاء
+Saturday,G3,06:00 PM,07:00 PM,تأسيس قرأن,ياسمين / الاء
+Saturday,G1,06:00 PM,07:00 PM,French,Aya
+Saturday,G2,06:00 PM,07:00 PM,French,Aya
+Saturday,G5,06:00 PM,07:00 PM,English Grammar,Dina Refaat
+Saturday,G2,06:00 PM,07:00 PM,English Grammar,Dina Refaat
+Sunday,Prek,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Sunday,KG1,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Sunday,KG2,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Sunday,G7,12:00 PM,01:00 PM,English Conversation,Fatma Fawzy Mahrous
+Sunday,G9,12:00 PM,01:00 PM,English Conversation,Fatma Fawzy Mahrous
+Sunday,G3,12:00 PM,01:00 PM,General English,Hanan Romany
+Sunday,G6,01:00 PM,02:00 PM,General English,Alshaimaa Abdulk haleq Ahmad
+Sunday,Prek,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,KG1,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,KG2,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G1,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G2,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G3,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G4,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G5,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G6,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G7,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G8,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G9,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G10,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G11,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,G12,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Sunday,Prek,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,KG1,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,KG2,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G1,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G2,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G3,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G4,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G5,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G6,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G7,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G8,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G9,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G10,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G11,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G12,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Sunday,G3,05:00 PM,06:00 PM,Math,شيماء سند
+Sunday,Prek,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,KG1,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,KG2,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G1,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G2,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G3,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G4,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G5,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G6,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G7,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G8,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G9,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G10,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G11,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G12,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Sunday,G1,06:00 PM,07:00 PM,اللغة العربية تأسيس قراءة و كتابة و قواعد,شيماء / ناهد
+Sunday,G2,06:00 PM,07:00 PM,اللغة العربية تأسيس قراءة و كتابة و قواعد,شيماء / ناهد
+Sunday,G3,06:00 PM,07:00 PM,اللغة العربية تأسيس قراءة و كتابة و قواعد,شيماء / ناهد
+Sunday,G3,06:00 PM,07:00 PM,German,Samir
+Sunday,G8,06:00 PM,07:00 PM,German,Badawy
+Sunday,G1,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Sunday,G2,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Sunday,G3,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Sunday,G4,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Sunday,G1,06:00 PM,07:00 PM,Math,نسرين
+Sunday,G3,06:00 PM,07:00 PM,English Conversation and Phonics,Kareem Salah Ali Hussien
+Sunday,G6,06:00 PM,07:00 PM,English Conversation and Phonics,Kareem Salah Ali Hussien
+Sunday,G1,06:00 PM,07:00 PM,English Reading,Hadeer Tawfik Abdelrahman
+Sunday,G4,06:00 PM,07:00 PM,English Grammar,Mona shaker
+Sunday,G5,06:00 PM,07:00 PM,English Grammar,Mona shaker
+Sunday,G8,07:00 PM,08:00 PM,النحو العربي,أحمد حسن
+Sunday,G9,07:00 PM,08:00 PM,النحو العربي,رمضان
+Sunday,G3,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G4,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G5,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G6,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G7,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G8,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G9,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G10,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G11,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G12,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Sunday,G10,07:00 PM,08:00 PM,اللغة العربية البلاغة,محمد مكاوي
+Sunday,G4,07:00 PM,08:00 PM,اللغة العربية,مني / دينا
+Sunday,G6,07:00 PM,08:00 PM,German,Elkady
+Sunday,G9,07:00 PM,08:00 PM,German,Badawy
+Sunday,G10,07:00 PM,08:00 PM,German,Badawy
+Sunday,G2,07:00 PM,08:00 PM,English Grammar,Aya Abdallah
+Sunday,G5,07:00 PM,08:00 PM,English Grammar,Muhamed abdelhak msaad
+Sunday,Prek,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,KG1,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,KG2,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G1,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G2,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G3,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G4,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G5,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G6,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G7,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G8,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G9,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G10,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G11,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G12,08:00 PM,09:00 PM,Fitness,P.E Team
+Sunday,G5,08:00 PM,09:00 PM,Science Geology,Aya
+Sunday,G6,08:00 PM,09:00 PM,Science Geology,Aya
+Sunday,G7,08:00 PM,09:00 PM,Science Geology,Aya
+Sunday,G4,08:00 PM,09:00 PM,Math,عمرو سامي
+Sunday,Prek,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,KG1,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,KG2,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G1,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G2,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G3,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G4,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G5,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G6,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G7,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G8,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G9,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G10,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G11,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G12,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Sunday,G1,09:00 PM,10:00 PM,SSE Time management,Israa Saed
+Sunday,G2,09:00 PM,10:00 PM,SSE Time management,Israa Saed
+Sunday,G3,09:00 PM,10:00 PM,SSE Time management,Israa Saed
+Thursday,Prek,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Thursday,KG1,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Thursday,KG2,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Thursday,G6,04:00 PM,05:00 PM,Pre-Sat,Mohamed  Salama
+Thursday,G7,04:00 PM,05:00 PM,Pre-Sat,Mohamed  Salama
+Thursday,G8,04:00 PM,05:00 PM,Pre-Sat,Mohamed  Salama
+Thursday,G9,04:00 PM,05:00 PM,Pre-Sat,Mohamed  Salama
+Thursday,G1,04:00 PM,05:00 PM,English Writing,Solwan Sameh
+Thursday,Prek,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,KG1,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,KG2,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G1,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G2,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G3,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G4,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G5,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G6,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G7,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G8,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G9,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G10,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G11,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G12,05:00 PM,06:00 PM,الخط العربي,أحمد حسن
+Thursday,G7,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Thursday,G8,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Thursday,G9,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Thursday,G10,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Thursday,G11,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Thursday,G12,06:00 PM,07:00 PM,اللغة العربية نحو,محمد مكاوي - رمضان
+Thursday,KG1,07:00 PM,08:00 PM,Art Group 1,Mai Adel & Reem Abdo
+Thursday,KG2,07:00 PM,08:00 PM,Art Group 1,Mai Adel & Reem Abdo
+Thursday,G1,07:00 PM,08:00 PM,Art Group 1,Mai Adel & Reem Abdo
+Thursday,G2,07:00 PM,08:00 PM,Art Group 2,Rehab Fawzy
+Thursday,G3,07:00 PM,08:00 PM,Art Group 2,Rehab Fawzy
+Thursday,G4,07:00 PM,08:00 PM,Art Group 2,Rehab Fawzy
+Thursday,G5,08:00 PM,09:00 PM,Art Group 3,Radwa Ahmed
+Thursday,G6,08:00 PM,09:00 PM,Art Group 3,Radwa Ahmed
+Thursday,G7,08:00 PM,09:00 PM,Art Group 3,Radwa Ahmed
+Thursday,Prek,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,KG1,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,KG2,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G1,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G2,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G3,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G4,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G5,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G6,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G7,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G8,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G9,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G10,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G11,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G12,08:00 PM,09:00 PM,Gymnastics,Mahmoud  Eissa
+Thursday,G8,08:00 PM,09:00 PM,English Reading comprehensions skills & grammar,Christine
+Tuesday,Prek,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Tuesday,KG1,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Tuesday,KG2,11:00 AM,12:00 PM,اللغة العربية تأسيس,هبة شرف / صباح
+Tuesday,G7,03:00 PM,04:00 PM,SSE Egyptian Geography and History,Amr Saed
+Tuesday,G8,03:00 PM,04:00 PM,SSE Egyptian Geography and History,Amr Saed
+Tuesday,G9,03:00 PM,04:00 PM,SSE Egyptian Geography and History,Amr Saed
+Tuesday,G10,03:00 PM,04:00 PM,SSE Egyptian Geography and History,Amr Saed
+Tuesday,G11,03:00 PM,04:00 PM,SSE Egyptian Geography and History,Amr Saed
+Tuesday,KG1,05:00 PM,06:00 PM,English( phonics - Grammar- Vocabulary),Eman Abdullah
+Tuesday,kG2,05:00 PM,06:00 PM,English( phonics - Grammar- Vocabulary),Eman Abdullah
+Tuesday,G4,05:00 PM,06:00 PM,German,Salah
+Tuesday,G6,05:00 PM,06:00 PM,Math,تقي
+Tuesday,G4,05:00 PM,06:00 PM,General English,Asmaa Hamdy
+Tuesday,G1,06:00 PM,07:00 PM,تأسيس قرأن,ياسمين / الاء
+Tuesday,G2,06:00 PM,07:00 PM,تأسيس قرأن,ياسمين / الاء
+Tuesday,G3,06:00 PM,07:00 PM,تأسيس قرأن,ياسمين / الاء
+Tuesday,G4,06:00 PM,07:00 PM,SSE History& Social Emotional,Muhammad Okasha
+Tuesday,G5,06:00 PM,07:00 PM,SSE History& Social Emotional,Muhammad Okasha
+Tuesday,G6,06:00 PM,07:00 PM,SSE History& Social Emotional,Muhammad Okasha
+Tuesday,G7,06:00 PM,07:00 PM,Math,مريام
+Tuesday,G12,07:00 PM,08:00 PM,اللغة العربية البلاغة,محمد مكاوي
+Tuesday,G5,07:00 PM,08:00 PM,German,Samir
+Tuesday,G5,07:00 PM,08:00 PM,Math,ايناس
+Tuesday,Prek,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,KG1,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,KG2,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G1,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G2,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G3,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G4,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G5,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G6,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G7,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G8,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G9,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G10,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G11,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G12,08:00 PM,09:00 PM,Fitness,P.E Team
+Tuesday,G7,08:00 PM,09:00 PM,French,Ibrahim
+Tuesday,G8,08:00 PM,09:00 PM,French,Ibrahim
+Tuesday,G9,08:00 PM,09:00 PM,French,Ibrahim
+Tuesday,G8,08:00 PM,09:00 PM,English Reading comprehensions skills & grammar,Christine
+Tuesday,G8,08:00 PM,09:00 PM,English Reading skills,Shaimaa Desokey
+Tuesday,Prek,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,KG1,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,KG2,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G1,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G2,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G3,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G4,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G5,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G6,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G7,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G8,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G9,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G10,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G11,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Tuesday,G12,09:00 PM,10:00 PM,ثقافة عامة في التاريخ و شخصيات من التاريخ الإسلامي,مصطفي عيد
+Wednesday,G8,12:00 PM,01:00 PM,Math,بسنت
+Wednesday,G7,12:00 PM,01:00 PM,English Conversation,Fatma Fawzy Mahrous
+Wednesday,G9,12:00 PM,01:00 PM,English Conversation,Fatma Fawzy Mahrous
+Wednesday,Prek,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,KG1,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,KG2,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G1,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G2,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G3,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G4,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G5,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G6,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G7,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G8,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G9,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G10,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G11,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,G12,04:00 PM,05:00 PM,تحفيظ القرأن,أحمد حسن
+Wednesday,Prek,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,KG1,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,KG2,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G1,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G2,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G3,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G4,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G5,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G6,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G7,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G8,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G9,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G10,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G11,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,G12,05:00 PM,06:00 PM,تجويد و تفسير,أحمد حسن
+Wednesday,Prek,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,KG1,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,KG2,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G1,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G2,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G3,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G4,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G5,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G6,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G7,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G8,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G9,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G10,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G11,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G12,06:00 PM,07:00 PM,المزمار الذهبي,أحمد حسن
+Wednesday,G1,06:00 PM,07:00 PM,اللغة العربية تأسيس قراءة و كتابة و قواعد,شيماء / ناهد
+Wednesday,G2,06:00 PM,07:00 PM,اللغة العربية تأسيس قراءة و كتابة و قواعد,شيماء / ناهد
+Wednesday,G3,06:00 PM,07:00 PM,اللغة العربية تأسيس قراءة و كتابة و قواعد,شيماء / ناهد
+Wednesday,G2,06:00 PM,07:00 PM,German,Elqady
+Wednesday,G7,06:00 PM,07:00 PM,German,Salah
+Wednesday,G1,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Wednesday,G2,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Wednesday,G3,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Wednesday,G4,06:00 PM,07:00 PM,Science Basics of electricity,Azza
+Wednesday,G3,06:00 PM,07:00 PM,English Conversation and Phonics,Kareem Salah Ali Hussien
+Wednesday,G6,06:00 PM,07:00 PM,English Conversation and Phonics,Kareem Salah Ali Hussien
+Wednesday,G4,06:00 PM,07:00 PM,English Conversation,AmiraSamaan
+Wednesday,G1,06:00 PM,07:00 PM,English Reading,Hadeer Tawfik Abdelrahman
+Wednesday,G5,06:00 PM,07:00 PM,English Grammar,Dina Refaat
+Wednesday,G2,06:00 PM,07:00 PM,English Grammar,Dina Refaat
+Wednesday,G3,06:00 PM,07:00 PM,English Conversation,AbdulAziz Lutfy
+Wednesday,G4,06:00 PM,07:00 PM,English Conversation,AbdulAziz Lutfy
+Wednesday,G4,06:00 PM,07:00 PM,English Grammar,Mona shaker
+Wednesday,G5,06:00 PM,07:00 PM,English Grammar,Mona shaker
+Wednesday,G3,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G4,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G5,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G6,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G7,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G8,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G9,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G10,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G11,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G12,07:00 PM,08:00 PM,تحفيظ قرأن و تجويد و تفسير,محمد سامي
+Wednesday,G7,07:00 PM,08:00 PM,اللغة العربية نحو,سامح
+Wednesday,G5,07:00 PM,08:00 PM,اللغة العربية,مني / دينا
+Wednesday,G2,07:30 PM,08:30 PM,Math,محمود مرزوق
+Wednesday,G5,08:00 PM,09:00 PM,Science Geology,Aya
+Wednesday,G6,08:00 PM,09:00 PM,Science Geology,Aya
+Wednesday,G7,08:00 PM,09:00 PM,Science Geology,Aya
